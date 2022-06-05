@@ -1,4 +1,5 @@
 IEEE Computer Society Web Development Team olarak külübümüzün web sitesini yaptık.
+
 As IEEE Computer Society Web Development Team, we made our club's website.
 
 # Kullanılan Teknolojiler / Used Technologies
@@ -11,6 +12,6 @@ Kullanılan Kütüphaler / Libraries Used : Bootstrap - Tailwind - Jquery - Font
 
 # Projede Görev Alanlar / Those Involved in the Project
 
-<a  href="https://github.com/orgs/IEEEFiratComputerSociety/teams/webprogramming"> Web Development Team </a>
+<a  href="https://github.com/orgs/IEEEFiratComputerSociety/teams/webprogramming"> Web Development Team </a>      06.06.2022
 
 
